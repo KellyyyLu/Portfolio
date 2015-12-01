@@ -147,11 +147,6 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 .intro .intro-body {
@@ -260,16 +255,16 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.Sketch {
     width: 100%;
-    padding: 50px 0;
+    padding: 400px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(../img/Sneaker-Hat.jpg) no-repeat bottom center scroll;
     background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    -o-background-size: 100%;
 }
 
 #map {
