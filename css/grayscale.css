@@ -281,6 +281,20 @@ a:focus {
     -o-background-size: 100%;
 }
 
+.Dress {
+    width: 80%;
+    padding: 200px 0;
+    color: #fff;
+    background: url(../img/Sketch-of-Two-Dresses.jpg) no-repeat bottom center scroll;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    -o-background-size: 100%;
+}
+
 @media(min-width:767px) {
     .content-section {
         padding-top: 250px;
