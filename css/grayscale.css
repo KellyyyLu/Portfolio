@@ -261,7 +261,7 @@ a:focus {
     width: 100%;
     padding: 500px 0;
     color: #fff;
-    background: url(/Users/Kelly/Documents/GitHub/Portfolio/img/cube-house-rendered.jpg) no-repeat bottom center scroll;
+    background: url(../img/cube-house-rendered.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -273,7 +273,7 @@ a:focus {
     width: 100%;
     padding: 600px 0;
     color: #fff;
-    background: url(/Users/Kelly/Documents/GitHub/Portfolio/img/Basswood-Model.jpg) no-repeat bottom center scroll;
+    background: url(../img/Basswood-Model.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -285,7 +285,7 @@ a:focus {
     width: 80%;
     padding: 250px 0;
     color: #fff;
-    background: url(/Users/Kelly/Documents/GitHub/Portfolio/img/Sneaker-Hat.jpg) no-repeat bottom center scroll;
+    background: url(../img/Sneaker-Hat.jpg) no-repeat bottom center scroll;
     margin-left: auto;
     margin-right: auto;
     background-color: #000;
