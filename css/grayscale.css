@@ -257,15 +257,23 @@ a:focus {
     }
 }
 
-.content-section {
-    padding-top: 0px;
-}
-
 .Cube {
     width: 100%;
     padding: 500px 0;
     color: #fff;
     background: url(../img/cube-house-rendered.jpg) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    -o-background-size: 100%;
+}
+
+.Model {
+    width: 100%;
+    padding: 600px 0;
+    color: #fff;
+    background: url(../img/Basswood-Model.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -299,6 +307,20 @@ a:focus {
     -moz-background-size: 100%;
     background-size: 100%;
     -o-background-size: 100%;
+}
+
+.Bond {
+    width: 90%;
+    padding: 300px 0;
+    color: #fff;
+    background: url(../img/Bond.jpg) no-repeat bottom center scroll;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000;
+    -webkit-background-size: 50%;
+    -moz-background-size: 50%;
+    background-size: 50%;
+    -o-background-size: 50%;
 }
 
 @media(min-width:767px) {
