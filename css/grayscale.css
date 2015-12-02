@@ -299,7 +299,7 @@ a:focus {
     width: 80%;
     padding: 200px 0;
     color: #fff;
-    background: url(/Users/Kelly/Documents/GitHub/Portfolio/img/Sketch-of-Two-Dresses.jpg) no-repeat bottom center scroll;
+    background: url(../img/Sketch-of-Two-Dresses.jpg) no-repeat bottom center scroll;
     margin-left: auto;
     margin-right: auto;
     background-color: #000;
@@ -313,7 +313,7 @@ a:focus {
     width: 90%;
     padding: 300px 0;
     color: #fff;
-    background: url(/Users/Kelly/Documents/GitHub/Portfolio/img/Bond.jpg) no-repeat bottom center scroll;
+    background: url(../img/Bond.jpg) no-repeat bottom center scroll;
     margin-left: auto;
     margin-right: auto;
     background-color: #000;
